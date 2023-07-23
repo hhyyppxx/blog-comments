@@ -1,2 +1,2 @@
 # blog-comments
-beaudar评论系统
+beaudar、utterances、giscus设置
